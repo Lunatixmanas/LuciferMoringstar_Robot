@@ -27,21 +27,25 @@ HELP = """
 ➥ /logger  Get Logs
 ➥ /delete Delete File From Database
 
-<b>[➡️How To Add Old Files For database](https://youtu.be/mtu5hgW-l_o)
-
-@Mo_Tech_YT></b>
+@KOT_BOTS></b>
 """
 
 ABOUT = """
-➥ Name : Auto Filter With IMDB
-    
-➥ Credits : Subin
-
-➥ Editing : [Muhammed RK](t.me/Mrk_YT)
-
-➥ Language : Python3
-
-➥ Library : Pyrogram Asyncio 1.13.0
-
-➥ Source Code : [Click Me](https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
+╭──────[@KOT_BOTS]───────〄
+│
+├ Nᴀᴍᴇ : <a href='https://t.me/KOT_MOVIES_FILTER_V2_BOT'>Tʜᴀʟᴀᴘᴀᴛʜʏ Vɪᴊᴀʏ 𝗩𝟮</a>
+│
+├ Sᴇʀᴠᴇʀ : <a href='https://heroku.com/'>Hᴇʀᴏᴋᴜ</a>
+│ 
+├ Lᴀɴɢᴜᴀɢᴇ : <a href='https://docs.pyrogram.org/'>Pʏᴛʜᴏɴ 3.9.6</a>
+│
+├ Vᴇʀꜱɪᴏɴ : <a href='https://t.me/KOT_MOVIES_FILTER_V2_BOT'>1.5.0 Bᴇᴛᴀ</a>
+│
+├ Fʀᴀᴍᴇᴡᴏʀᴋ : <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ 1.2.9</a>
+│
+├ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/KOT_FREE_DE_LA_HOYA_OFF'>✯°• Kᴏᴛ Fʀᴇᴇ Dᴇ Lᴀ Hᴏʏᴀ Oғғ °•✯ | ✪ Bᴏᴛs CʀᴇᴀᴛᴏR ✪</a>
+│
+├ Pᴏᴡᴇʀᴇᴅ Bʏ : <a href='https://t.me/KOT_LINKS_TEAM'>Kᴏᴛ Lɪɴᴋs Tᴇᴀᴍ</a>
+│
+├ Uᴘᴅᴀᴛᴇᴅ Oɴ : [ 4.1.2022 ] 06:39 PM
 """
