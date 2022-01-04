@@ -37,9 +37,9 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Messages
 default_start_msg = """
-**Hi, I'm Auto Filter V3**
+**𝗜 𝗔𝗠 𝗦𝗨𝗣𝗘𝗥 𝗔𝗨𝗧𝗢 𝗙𝗜𝗟𝗧𝗘𝗥 𝗕𝗢𝗧..𝗜 𝗖𝗔𝗡 𝗣𝗿𝗼𝘃𝗶𝗱𝗲 𝗠𝗼𝘃𝗶𝗲𝘀 𝗜𝗻 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 𝗚𝗿𝗼𝘂𝗽𝘀....
 
-Here you can search files in Inline mode as well as PM, Use the below buttons to search files or send me the name of file to search.
+𝗝𝗨𝗦𝗧 𝗔𝗗𝗗 𝗠𝗘 𝗧𝗢 𝗬𝗢𝗨𝗥 𝗚𝗥𝗢𝗨𝗣 𝗪𝗜𝗧𝗛 𝗔𝗗𝗠𝗜𝗡 𝗥𝗜𝗚𝗛𝗧𝗦 𝗔𝗡𝗗 𝗘𝗡𝗝𝗢𝗬 .
 """
 START_MSG = environ.get('START_MSG', default_start_msg)
 
